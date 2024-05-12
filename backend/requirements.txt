@@ -1,0 +1,7 @@
+django
+djangorestframework
+python-dotenv
+django-cors-headers
+jwt
+passlib
+django-rest-knox

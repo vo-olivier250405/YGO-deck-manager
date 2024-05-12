@@ -1,6 +1,6 @@
 # YGO-deck-manager
 
-## Start  
+## Start
 
 ```sh
 sudo docker compose up --build
